@@ -1,0 +1,44 @@
+h1{
+    color: red;
+}
+h2{
+  color: rgb(91, 238, 91);
+  font-style: italic;
+}
+.ex1{
+    font-style: italic;
+    text-decoration:underline;
+}
+ul{
+  font-style: normal;
+  color: rgb(137, 50, 10);
+  letter-spacing: 5px;
+}
+#s2{
+  background-color: yellow;
+}
+#s1{
+  text-decoration:line-through;
+}
+#s3{
+  background-color: yellow;
+  font-weight: bold;
+}
+#p1{
+  color: rgb(178, 35, 10);
+  font-size: 18px;
+}
+#p2{
+  font-size: 9px;
+  color: rgb(178, 35, 10);
+
+}
+#p3{
+  font-style: italic;
+  color: rgb(178, 35, 10);
+}
+a{
+  background-color: yellow;
+  text-decoration: none;
+  color: rgb(178, 35, 10);
+}
